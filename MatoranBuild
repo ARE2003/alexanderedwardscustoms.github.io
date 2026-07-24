@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Custom AMatoran Build</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="wrapper">
+        <h1>Custom matoran build</h1>
+        
+        <article id="main">
+            <p>Step 1</p>
+            <img src="images/matoran-step1.webp" alt="matoran Step 1">
+            
+            
+
+            <p class="next-link">
+                <a href="index.html">← Back to Torso Build</a>
+            </p>
+        </article>
+
+        <footer>
+            <p>Student's Name: Alex Edwards</p>
+            <p>The latest version of jQuery is: 4.0.0</p>
+        </footer>
+    </div>
+</body>
+</html>
