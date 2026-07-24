@@ -55,3 +55,17 @@ button {
     height: auto;
     margin-bottom: 1em; 
 }
+.next-link {
+    margin-top: 3em;
+    font-weight: bold;
+    text-align: center;
+}
+
+.next-link a {
+    color: #e6feec; /* Matches your footer light green */
+    text-decoration: underline;
+}
+
+.next-link a:hover {
+    color: #fff; /* Turns bright white when hovered */
+}
